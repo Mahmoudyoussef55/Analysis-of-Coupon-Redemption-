@@ -1,0 +1,36 @@
+
+Questions:
+
+1- Show the top 10 brands have highest reedemed coupons
+2- Find the most customers age ranges for each campaign category
+3- Show the top 10 brands that have high selling price 
+4- The top campaign seasons make high total selling for each campaign
+5- Describe the Duration of each campagin 
+6- Which campaign type has longer duration in each season 
+8-Find the total selling in each month for each campagin 
+9-Describe Bracket Income 
+10-Show the martial status for customers attended each campagin. 
+11- Show the top 15 customers who reedemed more coupons 
+12- Find how many reedemed coupons in each campaign type for each brand.
+13- Find how many reedemed coupons at each day for campaign categories.
+15- Show the most income stages [Low-Lower/Middle-Upper/Middle-High Income] attended each campagin.
+16- Find the total coupon reedmed and total selling for each income stage at each campaign.
+17- Which coupon (coupon id) discount got the highest total selling price.
+18- The top 3 seasons got the higher reedemed coupons
+19- Show the total selling price for each income stage at each campaign. 
+20- Show the most and least coupons used in both campaigns
+21- Show the quantity of item sold for each coupon at each campaign. 
+22- Find the category and brand type that made higher quantity for each campaign. 
+23- Find the coupon ids that made a higher discounts per each day for campaign X.
+24- Show the total quantity that have been sold for each category in each campagins
+25- Show how many coupons have been reedemed without any coupon discount at each brand category.
+26- Show the total discounts happened for each brand[show the highest]
+27- Find the brand,brand category, coupon discounts-> for maximum coupon discounts. 
+28- Find the data of coupons that reedmed more than one time 
+29- Find the total use of reedmed coupons in each brand category in each campagin.
+28- Is there's a corr between quantity and coupon discounts? 
+29- do the same for total price and coupon discounts. 
+30- Show start dates and end dates for each of the campagin.
+31- Find the customers income level who bought by a selling price higher than 1000
+	for the top 3 levels find how many coupons have been reedemed each campagin.
+	Then find the total coupon discounts been spent for each class.
